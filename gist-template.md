@@ -1,10 +1,11 @@
 Regex Tutorial: Matching a URL
 
-Today we're going to look at matching a URL
+Today we are going to go over the regex(regular expression)for matching a URL
 
 ## Summary
 
 Today we are going to be going over the regex of matching a URL
+A regex is a special text string for describing a search pattern. And witch matching a URL you can target a specific string or pattern within URLs.
 (https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?
 It's almost like taking the end of validating an email and putting it after "http//" and before file structure.
 
